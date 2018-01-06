@@ -21,7 +21,7 @@ a.newslink:visited {
     text-decoration: none;
 }
 
-a.update-button {
+a.button {
     text-decoration: none;
     padding: 10px 15px;
     float: right;
@@ -35,7 +35,7 @@ a.update-button {
     transition: all .3s ease;
 }
 
-a.update-button:hover {
+a.button:hover {
     background: #fc3645;
     color: white;
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
